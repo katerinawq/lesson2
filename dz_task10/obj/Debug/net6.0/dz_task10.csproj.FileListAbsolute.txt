@@ -1,0 +1,15 @@
+/Users/ekaterina/Desktop/Lesson23/dz_task10/obj/Debug/net6.0/dz_task10.csproj.AssemblyReference.cache
+/Users/ekaterina/Desktop/Lesson23/dz_task10/obj/Debug/net6.0/dz_task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/Lesson23/dz_task10/obj/Debug/net6.0/dz_task10.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/Lesson23/dz_task10/obj/Debug/net6.0/dz_task10.AssemblyInfo.cs
+/Users/ekaterina/Desktop/Lesson23/dz_task10/obj/Debug/net6.0/dz_task10.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/Lesson23/dz_task10/bin/Debug/net6.0/dz_task10
+/Users/ekaterina/Desktop/Lesson23/dz_task10/bin/Debug/net6.0/dz_task10.deps.json
+/Users/ekaterina/Desktop/Lesson23/dz_task10/bin/Debug/net6.0/dz_task10.runtimeconfig.json
+/Users/ekaterina/Desktop/Lesson23/dz_task10/bin/Debug/net6.0/dz_task10.dll
+/Users/ekaterina/Desktop/Lesson23/dz_task10/bin/Debug/net6.0/dz_task10.pdb
+/Users/ekaterina/Desktop/Lesson23/dz_task10/obj/Debug/net6.0/dz_task10.dll
+/Users/ekaterina/Desktop/Lesson23/dz_task10/obj/Debug/net6.0/refint/dz_task10.dll
+/Users/ekaterina/Desktop/Lesson23/dz_task10/obj/Debug/net6.0/dz_task10.pdb
+/Users/ekaterina/Desktop/Lesson23/dz_task10/obj/Debug/net6.0/dz_task10.genruntimeconfig.cache
+/Users/ekaterina/Desktop/Lesson23/dz_task10/obj/Debug/net6.0/ref/dz_task10.dll

@@ -1,0 +1,15 @@
+/Users/ekaterina/Desktop/Lesson23/task_13/bin/Debug/net6.0/task_13
+/Users/ekaterina/Desktop/Lesson23/task_13/bin/Debug/net6.0/task_13.deps.json
+/Users/ekaterina/Desktop/Lesson23/task_13/bin/Debug/net6.0/task_13.runtimeconfig.json
+/Users/ekaterina/Desktop/Lesson23/task_13/bin/Debug/net6.0/task_13.dll
+/Users/ekaterina/Desktop/Lesson23/task_13/bin/Debug/net6.0/task_13.pdb
+/Users/ekaterina/Desktop/Lesson23/task_13/obj/Debug/net6.0/task_13.csproj.AssemblyReference.cache
+/Users/ekaterina/Desktop/Lesson23/task_13/obj/Debug/net6.0/task_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/Lesson23/task_13/obj/Debug/net6.0/task_13.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/Lesson23/task_13/obj/Debug/net6.0/task_13.AssemblyInfo.cs
+/Users/ekaterina/Desktop/Lesson23/task_13/obj/Debug/net6.0/task_13.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/Lesson23/task_13/obj/Debug/net6.0/task_13.dll
+/Users/ekaterina/Desktop/Lesson23/task_13/obj/Debug/net6.0/refint/task_13.dll
+/Users/ekaterina/Desktop/Lesson23/task_13/obj/Debug/net6.0/task_13.pdb
+/Users/ekaterina/Desktop/Lesson23/task_13/obj/Debug/net6.0/task_13.genruntimeconfig.cache
+/Users/ekaterina/Desktop/Lesson23/task_13/obj/Debug/net6.0/ref/task_13.dll
